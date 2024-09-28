@@ -1,0 +1,11 @@
+{
+    "blade.format.enable": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Default Dark+ Experimental",
+    "editor.formatOnPaste": true,
+    "window.zoomLevel": 0,
+    "editor.largeFileOptimizations": false,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.fontSize": 12,
+}
